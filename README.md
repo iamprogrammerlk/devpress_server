@@ -1,6 +1,16 @@
 # DevPress
 WordPress development server environment for the local WordPress plugin/theme developers.
 
+## Operating system and server version:
+
+* Debian: bullseye-slim
+* Apache: 2.4.54
+
+## Supported tags, PHP, and WordPress versions:
+
+* 8_0_24(PHP: 8.0.24 - WordPress: 6.0.0)
+
+
 ## Author
 * Web - https://iamprogrammer.lk
 * Github - https://github.com/IamProgrammerLK
