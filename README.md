@@ -1,5 +1,5 @@
-# DevPress
-WordPress development server environment for the local WordPress plugin/theme developers.
+# DevPress Server
+Local development server for the WordPress plugin/theme developers.
 
 ## Operating system and server version:
 
